@@ -17,3 +17,7 @@ npm run start:dev
 ## create new module
 
 nest generate module messages
+
+## crate new controller
+
+nest generate controller messages/messages --flat
